@@ -1,4 +1,4 @@
-
+<img src="images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Hi 👋, I'm Katharian Abrahel
 Brazilian developer, student of the Bachelor's Degree in Information Systems at CIn - Federal University of Pernambuco (UFPE), and passionate by video games 🎮
